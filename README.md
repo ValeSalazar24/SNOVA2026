@@ -15,6 +15,7 @@ This might take a while...
 Create a default Unix user account: vista24   (y 2412.2412)
 
 Consola de Ubunto
+================
 3) Actualizaciones/herramientas basicas /Python
 3.1) vista24@R7En2412DeFS:/mnt/c/WINDOWS/system32$ sudo apt update && sudo apt upgrade -y
 3.2) vista24@R7En2412DeFS:/mnt/c/WINDOWS/system32$ sudo apt install build-essential git curl -y
